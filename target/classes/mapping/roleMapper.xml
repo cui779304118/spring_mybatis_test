@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+<mapper>
+
+<resultMap type="role" id="roleMap">
+	<id property="id" column="id"/>
+	<result property="roleName" column="roleName"/>
+	<result property="note" column="note"/>
+</resultMap>
+
+	<sql id="table">
+	
+	</sql>
+	<sql id="field">
+	roleName,note
+	</sql>
+	<!-- <sql id="insertFields">
+		<if test="roleName != null">
+		roleName
+		</if>
+		<if test="note !=null">
+		,note
+		</if>
+	</sql> -->
+	
+	<insert id="insertRole" parameterType="role">
+		insert into <include refid="table"/> (<include refid="field"/>) values (#{roleName},#{note})
+	</insert>
+
+</mapper>
