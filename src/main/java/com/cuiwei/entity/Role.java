@@ -24,6 +24,8 @@ public class Role {
 		this.note = note;
 	}
 	
-	
+	public String toString(){
+		return "roleName: " + roleName + ",note: " + note;
+	}
 
 }

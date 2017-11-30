@@ -1,0 +1,23 @@
+2017-11-30 15:21:14.615[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 15:24:33.405[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 15:39:15.268[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 15:39:32.562[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 15:42:46.581[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 15:48:45.805[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 15:51:14.147[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 15:55:45.281[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 15:58:51.798[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 16:05:25.914[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 16:06:17.461[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 16:07:43.845[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 16:08:52.237[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 16:08:52.542[main]INFO com.cuiwei.service.impl.RoleListServiceImpl-开始存入roleList
+2017-11-30 16:08:52.544[main]INFO com.cuiwei.service.impl.RoleServiceImpl-插入role：roleName: roleName 1,note: note1
+2017-11-30 16:08:52.635[main]INFO com.cuiwei.service.impl.RoleServiceImpl-插入role：roleName: roleName 2,note: note2
+2017-11-30 16:08:52.682[main]INFO com.cuiwei.main.Main------------主函数运行结束
+2017-11-30 16:14:06.081[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 16:15:34.069[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 16:21:35.134[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 16:26:20.118[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 16:27:34.969[main]INFO com.cuiwei.main.Main------------主函数开始运行
+2017-11-30 16:30:03.740[main]INFO com.cuiwei.main.Main------------主函数开始运行
